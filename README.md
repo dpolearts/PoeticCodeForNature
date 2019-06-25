@@ -1,17 +1,17 @@
 ## 시작하기
 
 접속 주소 : <https://dpolearts.github.io/PoeticCodeForNature/>
+
  * dpole
- * \_config.yml 파일에서 url 값을 여러분에게 맞게 수정하세요.
- * 원한다면 테마를 변경할 수 있습니다. <https://pages.github.com/themes/> 페이지를 참고합니다.
 
 
 ## 김홍주
- * 제 소개
+ * 서울예대 재학 중 / 학번 1623002
+
 
 ## 작업
- * [예시 작업](./example/)
- * 여러분의 작업을 p5 기반으로 만들고 링크를 걸 수 있습니다.
- * 다음처럼 이미지를 추가할 수도 있습니다.
+ * [최종 결과물](./example/)
+ * 여러 스케치 중 최종으로 낼 수 있는 작업물이 이거라서 제출합니다.
+ * 제 시간에 내지 못 해 죄송합니다.
 
- ![예시 이미지](./example_img.png)
+ ![최종 이미지](./example_img.png)
